@@ -19,13 +19,14 @@ At this point. You have your Chimera mounted and none of the wires connected.
   * For the E0 (Left) heater and thermistor, use the same wires from the breakout board
   * For the E1 (Right) heater and thermistor, connect them to main board as shown in the picture below
     ![Wiring for E1](images/wiring-e1.jpg)
-    
+
 # Updating Firmware
-  * Clone 1.1.8
-  * Replace files 
+  * Clone Marlin 1.1.8 to your computer 
+  * Copy the files in this repository in the folder `Marlin` into the cloned Marlin 1.1.8 `Marlin` folder.
+  * Make any changes you want to the configuration
   * Flash it
 
 # Setting up the Chimera
   * Octoprint
   * PID Autotune
-  * X Offset
+  * [X Offset](https://www.youtube.com/watch?v=aQbqc2br5yo)
