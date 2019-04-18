@@ -8,8 +8,8 @@ This guide will help you convert printer to use a chimera (2 in 2 out) style hot
   * Chimera (24V) w/ 2x Heater Cartridges and Thermistor 
   
 # Mount the Chimera
-  * Remove the stock hotend
   * Print the [mount](https://www.thingiverse.com/thing:3488156): 
+  * Remove the stock hotend
   * [Assemble the Chimera](https://e3d-online.dozuki.com/Guide/Chimera+Assembly/77?lang=en)
   * Install the mount on the carriage
   * [Level the nozzles](https://www.youtube.com/watch?v=7Bv5rPmiO0Q)
