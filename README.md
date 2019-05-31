@@ -10,9 +10,9 @@ This guide will help you convert printer to use a chimera (2 in 2 out) style hot
   * [Terminals Removal Key](https://www.amazon.com/gp/product/B07CHF74S9/) - I used this to remove wires from the molex connector
   * [MOLEX 43030-0001 CONTACT](https://www.amazon.com/gp/product/B00LQPGO8A) - I used this to connect wires to the molex connector
   
-## Mount the Chimera
-  * Remove the stock hotend
+# Mount the Chimera
   * Print the [mount](https://www.thingiverse.com/thing:3488156): 
+  * Remove the stock hotend
   * [Assemble the Chimera](https://e3d-online.dozuki.com/Guide/Chimera+Assembly/77?lang=en)
   * Install the mount on the carriage
   * I recommend [this](https://www.thingiverse.com/thing:2563670) fan duct 
