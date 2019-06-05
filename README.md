@@ -17,7 +17,6 @@ This guide will help you convert printer to use a chimera (2 in 2 out) style hot
   * Install the mount on the carriage
   * I recommend [this](https://www.thingiverse.com/thing:2563670) fan duct 
   * [Level the nozzles](https://www.youtube.com/watch?v=7Bv5rPmiO0Q)
-  * If you have all-metal heatbreaks, don't forget to [season your hotend](https://www.youtube.com/watch?v=shSfZxK-VUk)
 
 ## Wiring the Chimera
 At this point. You have your Chimera mounted and none of the wires connected.
@@ -35,3 +34,4 @@ At this point. You have your Chimera mounted and none of the wires connected.
   * Octoprint
   * PID Autotune
   * [X Offset](https://www.youtube.com/watch?v=aQbqc2br5yo)
+  * If you have all-metal heatbreaks, don't forget to [season your hotend](https://www.youtube.com/watch?v=shSfZxK-VUk)
